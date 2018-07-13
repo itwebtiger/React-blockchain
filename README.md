@@ -4,7 +4,7 @@
 
 ```
 git clone https://github.com/reactionic127/react-blockchain-frontend.git
-cd busy
+cd 
 
 npm install
 npm run dev-server
